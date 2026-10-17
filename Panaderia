@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="style.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Panadería Yuye</title>
+</head>
+<body>
+    <div class="Encabezado">
+    <div class="logo"><h1>🥯Panadería Yuye🥯</h1>
+    <p>La mejor Panadería</p>
+</div>
+    <div class="Menu">
+        <a href="">Inicio</a>
+        <a href="">Productos</a>
+        <a href="">Conócenos</a>
+        <a href="">Redes sociales</a>
+    </div>
+    </div>
+    <div class="Principal"><h2>"Panes recien hechos con amor"</h2>
+ <p>Arriesgate a probar nuestros panes, no te arrepentirás💕</p>
+<a href="boton">Ver productos</a>
+ <a href="" class="productos"><h2>productos de buena calidad</h2></a>
+<p>Pan hecho con productos 100% naturales</p>
+</div>
+<div class="Catálogo">
+    <div class="Tarjeta">
+<div class="Foto">🥖</div>
+<h3>Cuernitos</h3>
+<p>150$mx</p>
+<a href="" class="Agregar">Agregar🛒💰</a>
+
+    <div class="Tarjeta">
+<div class="Foto">🌭</div>
+<h3>Concha de chocolate</h3>
+<p>150$mx</p>
+<a href="" class="Agregar">Agregar🛒💰</a>
+    
+<div class="Tarjeta">
+    <div class="Foto">🍩</div>
+    <h3>Donas de chocolate</h3>
+    <p>100$mx</p>
+    <a href="" class="Agregar">Agregar🛒💰</a>
+</div>
+</div>    
+</div>
+<div class="Nosotros">
+    <h3>¿Por qué elegirnos?</h3>
+    <div class="Características">
+        <div>
+            <h3>Ingredientes naturales🌿</h3>
+            <p>Productos expotados de Latinoamerica</p>
+        </div>
+        <div><h3>Hechos con cariño y amor💕💐</h3>
+            <p>☆*: .｡.Preparamos el producto pensando en la satisfacción de los consumidores.｡.:*☆</p></div>
+     <div><h3>Pedidos a domicilio🚗</h3>
+    <p>Entregas rápidas y eficientes</p></div>
+    </div>
+    </div>
+</div>
+<div class="Pie"><p>Pan delicioso</p></div>
+
+            </div>
+        </div>
+    </div>
+</body>
+</html>
